@@ -1,0 +1,7 @@
+{
+  "notification_config": {
+    "content": "The flash new episode",
+    "type": "tvshow",
+    "id": "1234"
+  }
+}
