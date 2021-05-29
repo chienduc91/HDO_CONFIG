@@ -3,5 +3,10 @@
     "content": "",
     "type": "movie",
     "id": "521034"
+  },
+  "update_release": {
+    "version": "1.6",
+    "url": "https://hdo.app/dl/hdo-release.apk",
+    "isUpdate": true
   }
 }
