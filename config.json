@@ -7,9 +7,9 @@
   "update_release": {
     "version": "1.6",
     "url": "https://hdo.app/dl/hdo-release.apk",
-    "contents1": "Fix the recent of tvshow not send to the 1st place.",
-    "contents2": "Autocomplete enhancement.",
-    "contents3": "",
+    "contents1": "Update to version 1.5 with various feature",
+    "contents2": "Improve the stability",
+    "contents3": "Bugs fixed",
     "isUpdate": true
   }
 }
