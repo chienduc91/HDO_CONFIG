@@ -7,9 +7,9 @@
   "update_release": {
     "version": "1.9",
     "url": "https://github.com/hdoonline/hdo/releases/download/v2.0/HDO-Betareleasev2.apk",
-    "contents1": "Update to version 2.0 with various feature",
-    "contents2": "Improve the stability",
-    "contents3": "Bugs fixed",
+    "contents1": "Change the UI in Player.",
+    "contents2": "Choose quality for specific link.",
+    "contents3": "Chromecast function and subtitle.",
     "isUpdate": true
   }
 }
