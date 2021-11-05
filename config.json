@@ -5,9 +5,9 @@
     "id": "521034"
   },
   "update_release": {
-    "version": "1.6",
-    "url": "https://hdo.app/download",
-    "contents1": "Update to version 1.6 with various feature",
+    "version": "1.9",
+    "url": "https://github.com/hdoonline/hdo/releases/download/v2.0/HDO-Betareleasev2.apk",
+    "contents1": "Update to version 2.0 with various feature",
     "contents2": "Improve the stability",
     "contents3": "Bugs fixed",
     "isUpdate": true
