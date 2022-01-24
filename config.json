@@ -5,11 +5,11 @@
     "id": "521034"
   },
   "update_release": {
-    "version": "2.4",
-    "url": "https://github.com/hdoonline/hdo/releases/download/v2.0.4/hdo-betav2.0.4.apk",
-    "contents1": "Add remove recent.",
-    "contents2": "Update for subtitle.",
-    "contents3": "Fix multiple bugs.",
+    "version": "2.5",
+    "url": "https://hdo.app/dl/hdo-betav2.0.5.apk",
+    "contents1": "Add more source provider",
+    "contents2": "Fix some major bugs",
+    "contents3": "",
     "isUpdate": true
   }
 }
