@@ -5,11 +5,11 @@
     "id": "521034"
   },
   "update_release": {
-    "version": "2.4",
-    "url": "https://hdo.app/dl/hdo-betav2.0.5.apk",
-    "contents1": "Add more source provider",
-    "contents2": "Fix some major bugs",
-    "contents3": "",
+    "version": "2.7",
+    "url": "https://hdo.app/dl/hdo-betav2.0.7.apk",
+    "contents1": "Fix recent postion.",
+    "contents2": "Fix loading source.",
+    "contents3": "Update more source.",
     "isUpdate": true
   }
 }
