@@ -10,6 +10,7 @@
     "contents1": "Fix recent postion.",
     "contents2": "Fix loading source.",
     "contents3": "Update more source.",
+    "force_update": true,
     "isUpdate": true
   }
 }
