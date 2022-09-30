@@ -4,6 +4,9 @@
     "type": "movie",
     "id": "521034"
   },
+  "ads_config": {
+    "init_ads": "admob"
+  },
   "update_release": {
     "version": "2.7",
     "url": "https://hdo.app/dl/hdo-betav2.0.7.apk",
