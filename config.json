@@ -5,7 +5,7 @@
     "id": "521034"
   },
   "ads_config": {
-    "init_ads": "admob"
+    "init_ads": "applovin"
   },
   "update_release": {
     "version": "2.7",
