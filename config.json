@@ -7,6 +7,10 @@
   "ads_config": {
     "init_ads": "admob"
   },
+  "tmdb_apikey": {
+    "ios_key": "4f13e231604d2f2d60865c2baa43dcd4",
+    "android_key": "4f13e231604d2f2d60865c2baa43dcd4"
+  },
   "update_release": {
     "version": "2.7",
     "url": "https://hdo.app/dl/hdo-betav2.0.7.apk",
