@@ -12,12 +12,12 @@
     "android_key": "4f13e231604d2f2d60865c2baa43dcd4"
   },
   "update_release": {
-    "version": "2.7",
-    "url": "https://hdo.app/dl/hdo-betav2.0.7.apk",
+    "version": "2.9",
+    "url": "https://github.com/hdoonline/hdonline/releases/download/rl/hdo-betav2.0.9.apk",
     "contents1": "Fix recent postion.",
     "contents2": "Fix loading source.",
     "contents3": "Update more source.",
-    "force_update": false,
+    "force_update": true,
     "isUpdate": true
   }
 }
