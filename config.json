@@ -8,8 +8,8 @@
     "init_ads": "admob"
   },
   "tmdb_apikey": {
-    "ios_key": "e96ee9dff18317227508b99b483391b7",
-    "android_key": "e96ee9dff18317227508b99b483391b7"
+    "ios_key": "5228bff935f7bd2b18c04fc3439828c0",
+    "android_key": "5228bff935f7bd2b18c04fc3439828c0"
   },
   "update_release": {
     "version": "2.9",
