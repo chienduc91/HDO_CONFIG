@@ -5,7 +5,7 @@
     "id": "521034"
   },
   "ads_config": {
-    "init_ads": "admob"
+    "init_ads": "applovin"
   },
   "tmdb_apikey": {
     "ios_key": "5228bff935f7bd2b18c04fc3439828c0",
