@@ -8,8 +8,8 @@
     "init_ads": "applovin"
   },
   "tmdb_apikey": {
-    "ios_key": "5228bff935f7bd2b18c04fc3439828c0",
-    "android_key": "5228bff935f7bd2b18c04fc3439828c0"
+    "ios_key": "de46e6f53a84b5f39c219d07ad20b698",
+    "android_key": "de46e6f53a84b5f39c219d07ad20b698"
   },
   "update_release": {
     "version": "2.9",
